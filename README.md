@@ -36,4 +36,22 @@ nci_account -P vj74 -v ... how much storage
 
 ## Git Commands
 
+```
 git status... gets status of changes.
+```
+
+How to commit
+
+```
+git add [files I wanted to add]
+git commit -m "[summary]"
+git push
+```
+
+Then do whatever it tells you...
+
+How to pull
+
+```
+git pull
+```
