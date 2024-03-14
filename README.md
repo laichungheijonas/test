@@ -20,7 +20,13 @@ python3 -m venv [name_of_env]
 Loading a virtual environment:
 
 ```
-source /home/131/cl2788/environments/graphcast_env/bin/activate
+source /scratch/vj74/cl2788/environments/graphcast_env/bin/activate
+```
+
+Install requirements.
+
+```
+python -m pip install -r requirment.txt --no-cache-dir
 ```
 
 Useful commands
@@ -54,4 +60,12 @@ How to pull
 
 ```
 git pull
+```
+
+### Location of Graphcast
+
+Graphcast is located at:
+
+```
+/scratch/vj74/cl2788/programs/graphcast
 ```

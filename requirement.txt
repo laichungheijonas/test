@@ -1,0 +1,12 @@
+chex
+dask
+dm-haiku
+jax
+git+https://github.com/deepmind/jaxline
+jraph
+numpy
+pandas
+scipy
+dm-tree
+trimesh
+xarray
